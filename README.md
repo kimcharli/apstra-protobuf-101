@@ -69,3 +69,10 @@ uv pip install -r requirements.txt
 
 ```
 
+# Run
+
+```sh
+cd apstra-protobuf-101
+source .venv/bin/activate
+python main.py 10.85.192.46 4446 event
+```
